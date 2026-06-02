@@ -1,169 +1,186 @@
-human_project_name,project_name,og_file,season_id,title,order,file_name
-Bautizo Guillermo,bautizo-guillermo,02_Guillermo_Bautizo,NULL,Introducción,001,001_introduccion
-Bautizo Guillermo,bautizo-guillermo,02_Guillermo_Bautizo,NULL,Preparativos,002,002_preparativos
-Bautizo Guillermo,bautizo-guillermo,02_Guillermo_Bautizo,NULL,Llega Guillermo,003,003_llega-guillermo
-Bautizo Guillermo,bautizo-guillermo,02_Guillermo_Bautizo,NULL,Ceremonia: Llegada a la Iglesia,004,004_ceremonia-llegada-a-la-iglesia
-Bautizo Guillermo,bautizo-guillermo,02_Guillermo_Bautizo,NULL,Ceremonia: Rito de Acogida,005,005_ceremonia-rito-de-acogida
-Bautizo Guillermo,bautizo-guillermo,02_Guillermo_Bautizo,NULL,Ceremonia: Bautismo,006,006_ceremonia-bautismo
-Bautizo Guillermo,bautizo-guillermo,02_Guillermo_Bautizo,NULL,Ceremonia: Rito de Conclusión,007,007_ceremonia-rito-de-conclusion
-Bautizo Guillermo,bautizo-guillermo,02_Guillermo_Bautizo,NULL,Merienda: Todos sentados a la mesa,008,008_merienda-todos-sentados-a-la-mesa
-Bautizo Guillermo,bautizo-guillermo,02_Guillermo_Bautizo,NULL,Merienda: Merienda: Preparación del concurso,009,009_merienda-merienda-preparacion-del-concurso
-Bautizo Guillermo,bautizo-guillermo,02_Guillermo_Bautizo,NULL,Merienda: Merienda: Concurso,010,010_merienda-merienda-concurso
-Bautizo Guillermo,bautizo-guillermo,02_Guillermo_Bautizo,NULL,Merienda: Merienda: Concurso II,011,011_merienda-merienda-concurso-ii
-Bautizo Guillermo,bautizo-guillermo,02_Guillermo_Bautizo,NULL,Merienda: Merienda: Concurso III,012,012_merienda-merienda-concurso-iii
-Bautizo Guillermo,bautizo-guillermo,02_Guillermo_Bautizo,NULL,Merienda: Merienda: Concurso IV,013,013_merienda-merienda-concurso-iv
-Bautizo Guillermo,bautizo-guillermo,02_Guillermo_Bautizo,NULL,Merienda: Viene Guillermo,014,014_merienda-viene-guillermo
-Bautizo Guillermo,bautizo-guillermo,02_Guillermo_Bautizo,NULL,Merienda: Tarta,015,015_merienda-tarta
-Bautizo Guillermo,bautizo-guillermo,02_Guillermo_Bautizo,NULL,Epílogo,016,016_epilogo
-Bautizo Guillermo,bautizo-guillermo,02_Guillermo_Bautizo,NULL,Discurso Papá y fotografías,017,017_discurso-papa-y-fotografias
-Comunion Sara,comunion-sara,03_Sara_Bautizo_Comunion,NULL,Introducción,1,001_introduccion
-Comunion Sara,comunion-sara,03_Sara_Bautizo_Comunion,NULL,Desayuno de la comulgante,2,002_desayuno-de-la-comulgante
-Comunion Sara,comunion-sara,03_Sara_Bautizo_Comunion,NULL,Vistiendose y peluquería,3,003_vistiendose-y-peluqueria
-Comunion Sara,comunion-sara,03_Sara_Bautizo_Comunion,NULL,Antes de la ceremonia,4,004_antes-de-la-ceremonia
-Comunion Sara,comunion-sara,03_Sara_Bautizo_Comunion,NULL,Entrada y oración,5,005_entrada-y-oracion
-Comunion Sara,comunion-sara,03_Sara_Bautizo_Comunion,NULL,Renovación de las promesas bautismales,6,006_renovacion-de-las-promesas-bautismales
-Comunion Sara,comunion-sara,03_Sara_Bautizo_Comunion,NULL,Acción de Gracias,7,007_accion-de-gracias
-Comunion Sara,comunion-sara,03_Sara_Bautizo_Comunion,NULL,Rito de la paz,8,008_rito-de-la-paz
-Comunion Sara,comunion-sara,03_Sara_Bautizo_Comunion,NULL,Rito de Comunión,9,009_rito-de-comunion
-Comunion Sara,comunion-sara,03_Sara_Bautizo_Comunion,NULL,Parque,10,010_parque
-Comunion Sara,comunion-sara,03_Sara_Bautizo_Comunion,NULL,Comida,11,011_comida
-Comunion Sara,comunion-sara,03_Sara_Bautizo_Comunion,NULL,Paso de Sara por el manto de la Virgen del Pilar,12,012_paso-de-sara-por-el-manto-de-la-virgen-del-pilar
-Comunion Sara,comunion-sara,03_Sara_Bautizo_Comunion,NULL,Fotografías I,13,013_fotografias-i
-Comunion Sara,comunion-sara,03_Sara_Bautizo_Comunion,NULL,Fotografías II,14,014_fotografias-ii
-Comunion Sara,comunion-sara,03_Sara_Bautizo_Comunion,NULL,Fotografías III,15,015_fotografias-iii
-Comunion Sara,comunion-sara,03_Sara_Bautizo_Comunion,NULL,Fotografías IV,16,016_fotografias-iv
-Comunion Sara,comunion-sara,03_Sara_Bautizo_Comunion,NULL,Fotografías V,17,017_fotografias-v
-Comunion Sara,comunion-sara,03_Sara_Bautizo_Comunion,NULL,Fotografías VI,18,018_fotografias-vi
-Comunion Sara,comunion-sara,03_Sara_Bautizo_Comunion,NULL,Fotografías VII,19,019_fotografias-vii
-Bautizo Pablo,bautizo-pablo,04_Pablo_Bautizo_Comunion,NULL,Introducción,1,001_introduccion
-Bautizo Pablo,bautizo-pablo,04_Pablo_Bautizo_Comunion,NULL,Preparativos: El despertar,2,002_preparativos-el-despertar
-Bautizo Pablo,bautizo-pablo,04_Pablo_Bautizo_Comunion,NULL,Preparativos: Poniendo el traje,3,003_preparativos-poniendo-el-traje
-Bautizo Pablo,bautizo-pablo,04_Pablo_Bautizo_Comunion,NULL,Ceremonia,4,004_ceremonia
-Bautizo Pablo,bautizo-pablo,04_Pablo_Bautizo_Comunion,NULL,Rito del bautismo,5,005_rito-del-bautismo
-Bautizo Pablo,bautizo-pablo,04_Pablo_Bautizo_Comunion,NULL,Parque,6,006_parque
-Bautizo Pablo,bautizo-pablo,04_Pablo_Bautizo_Comunion,NULL,La celebración: Banquete,7,007_la-celebracion-banquete
-Bautizo Pablo,bautizo-pablo,04_Pablo_Bautizo_Comunion,NULL,Tarta,8,008_tarta
-Bautizo Pablo,bautizo-pablo,04_Pablo_Bautizo_Comunion,NULL,Fotografias,9,009_fotografias
-Comunión Pablo,comunion-pablo,04_Pablo_Bautizo_Comunion,montaje-personal,Introducción,1,001_introduccion
-Comunión Pablo,comunion-pablo,04_Pablo_Bautizo_Comunion,montaje-personal,Preparativos,2,002_preparativos
-Comunión Pablo,comunion-pablo,04_Pablo_Bautizo_Comunion,montaje-personal,Entrada y oración,3,003_entrada-y-oracion
-Comunión Pablo,comunion-pablo,04_Pablo_Bautizo_Comunion,montaje-personal,Acción de Gracias,4,004_accion-de-gracias
-Comunión Pablo,comunion-pablo,04_Pablo_Bautizo_Comunion,montaje-personal,Presentación de los comulgantes,5,005_presentacion-de-los-comulgantes
-Comunión Pablo,comunion-pablo,04_Pablo_Bautizo_Comunion,montaje-personal,Renovación de las promesas,6,006_renovacion-de-las-promesas
-Comunión Pablo,comunion-pablo,04_Pablo_Bautizo_Comunion,montaje-personal,Oración de papá,7,007_oracion-de-papa
-Comunión Pablo,comunion-pablo,04_Pablo_Bautizo_Comunion,montaje-personal,Ofrenda de flores,8,008_ofrenda-de-flores
-Comunión Pablo,comunion-pablo,04_Pablo_Bautizo_Comunion,montaje-personal,Rito de la paz,9,009_rito-de-la-paz
-Comunión Pablo,comunion-pablo,04_Pablo_Bautizo_Comunion,montaje-personal,Rito de Comunión,10,010_rito-de-comunion
-Comunión Pablo,comunion-pablo,04_Pablo_Bautizo_Comunion,montaje-personal,Banquete,11,011_banquete
-Comunión Pablo,comunion-pablo,04_Pablo_Bautizo_Comunion,montaje-personal,Paso de Pablo por el manto de la Virgen del Pilar,12,012_paso-de-pablo-por-el-manto-de-la-virgen-del-pilar
-Comunión Pablo,comunion-pablo,04_Pablo_Bautizo_Comunion,montaje-personal,Fotografias,13,013_fotografias
-Comunión Pablo,comunion-pablo,Profesional_Pablo_Comunion,montaje-profesional,Capitulo I,1,001_capitulo-i
-Comunión Pablo,comunion-pablo,Profesional_Pablo_Comunion,montaje-profesional,Capitulo II,2,002_capitulo-ii
-Comunión Pablo,comunion-pablo,Profesional_Pablo_Comunion,montaje-profesional,Capitulo III,3,003_capitulo-iii
-Comunión Pablo,comunion-pablo,Profesional_Pablo_Comunion,montaje-profesional,Capitulo IV,4,004_capitulo-iv
-Comunión Guillermo,comunion-guillermo,05_Guille_Comunion_Confirmacion,NULL,Introducción,1,001_introduccion
-Comunión Guillermo,comunion-guillermo,05_Guille_Comunion_Confirmacion,NULL,Antes de la ceremonia,2,002_antes-de-la-ceremonia
-Comunión Guillermo,comunion-guillermo,05_Guille_Comunion_Confirmacion,NULL,Oración,3,003_oracion
-Comunión Guillermo,comunion-guillermo,05_Guille_Comunion_Confirmacion,NULL,Acción de Gracias,4,004_accion-de-gracias
-Comunión Guillermo,comunion-guillermo,05_Guille_Comunion_Confirmacion,NULL,Rito de la paz,5,005_rito-de-la-paz
-Comunión Guillermo,comunion-guillermo,05_Guille_Comunion_Confirmacion,NULL,Rito de Comunión,6,006_rito-de-comunion
-Comunión Guillermo,comunion-guillermo,05_Guille_Comunion_Confirmacion,NULL,Paso de Guillermo por el manto de la Virgen del Pilar,7,007_paso-de-guillermo-por-el-manto-de-la-virgen-del-pilar
-Comunión Guillermo,comunion-guillermo,05_Guille_Comunion_Confirmacion,NULL,Restaurante,8,008_restaurante
-Comunión Guillermo,comunion-guillermo,05_Guille_Comunion_Confirmacion,NULL,Parque de atracciones,9,009_parque-de-atracciones
-Comunión Guillermo,comunion-guillermo,05_Guille_Comunion_Confirmacion,NULL,Fotografias,10,010_fotografias
-Confirmación Guillermo,confirmacion-guillermo,05_Guille_Comunion_Confirmacion,NULL,Ceremonia de confirmación,1,001_ceremonia-de-confirmacion
-Confirmación Guillermo,confirmacion-guillermo,05_Guille_Comunion_Confirmacion,NULL,Palabras para Guille,1,001_palabras-para-guille
-Mayoría de edad Guillermo,mayoria-de-edad-guillermo,05_Guille_Comunion_Confirmacion,NULL,Palabras para Guille,1,001_palabras-para-guille
-Boda Bea,boda-bea,06_Boda_Bea,001_ceremonias,Introducción,1,001_introduccion
-Boda Bea,boda-bea,06_Boda_Bea,001_ceremonias,Ceremonia Mexicana: Introducción,2,002_ceremonia-mexicana-introduccion
-Boda Bea,boda-bea,06_Boda_Bea,001_ceremonias,Ceremonia Mexicana: Discurso,3,003_ceremonia-mexicana-discurso
-Boda Bea,boda-bea,06_Boda_Bea,001_ceremonias,Ceremonia Mexicana: Poesía Pablo,4,004_ceremonia-mexicana-poesia-pablo
-Boda Bea,boda-bea,06_Boda_Bea,001_ceremonias,Ceremonia Mexicana: Poesia Sara,5,005_ceremonia-mexicana-poesia-sara
-Boda Bea,boda-bea,06_Boda_Bea,001_ceremonias,Ceremonia Mexicana: Baile,6,006_ceremonia-mexicana-baile
-Boda Bea,boda-bea,06_Boda_Bea,001_ceremonias,Ceremonia Mexicana: Discoteca,7,007_ceremonia-mexicana-discoteca
-Boda Bea,boda-bea,06_Boda_Bea,001_ceremonias,Ceremonia Civil: Introducción,8,008_ceremonia-civil-introduccion
-Boda Bea,boda-bea,06_Boda_Bea,001_ceremonias,Ceremonia Civil: Introducción,9,009_ceremonia-civil-introduccion
-Boda Bea,boda-bea,06_Boda_Bea,001_ceremonias,Ceremonia Civil: Banquete,10,010_ceremonia-civil-banquete
-Boda Bea,boda-bea,06_Boda_Bea,001_ceremonias,Fotografias,11,011_fotografias
-Boda Bea,boda-bea,06_Boda_Bea,002_mexico-semana-en-el-paraiso,Introducción,1,001_introduccion
-Boda Bea,boda-bea,06_Boda_Bea,002_mexico-semana-en-el-paraiso,5 Feb. Mister H10,2,002_5-feb-mister-h10
-Boda Bea,boda-bea,06_Boda_Bea,002_mexico-semana-en-el-paraiso,6 Feb. Deportes,3,003_6-feb-deportes
-Boda Bea,boda-bea,06_Boda_Bea,002_mexico-semana-en-el-paraiso,8 Feb. Playa y motos,4,004_8-feb-playa-y-motos
-Boda Bea,boda-bea,06_Boda_Bea,002_mexico-semana-en-el-paraiso,9 Deb. Paracaídas,5,005_9-deb-paracaidas
-Boda Bea,boda-bea,06_Boda_Bea,002_mexico-semana-en-el-paraiso,10 Feb. Se acabó,6,006_10-feb-se-acabo
-Boda Bea,boda-bea,06_Boda_Bea,002_mexico-semana-en-el-paraiso,Fotografias,7,007_fotografias
-Boda Bea,boda-bea,06_Boda_Bea,002_mexico-semana-en-el-paraiso,Tienda Maya,1,001_tienda-maya
-Boda Bea,boda-bea,06_Boda_Bea,002_mexico-semana-en-el-paraiso,Pirámide Kukulcan,2,002_piramide-kukulcan
-Boda Bea,boda-bea,06_Boda_Bea,002_mexico-semana-en-el-paraiso,Juego pelota (Pok a pok),3,003_juego-pelota-pok-a-pok
-Boda Bea,boda-bea,06_Boda_Bea,002_mexico-semana-en-el-paraiso,Plataforma de Venus,4,004_plataforma-de-venus
-Boda Bea,boda-bea,06_Boda_Bea,002_mexico-semana-en-el-paraiso,Templo Guerrerros,5,005_templo-guerrerros
-Boda Bea,boda-bea,06_Boda_Bea,002_mexico-semana-en-el-paraiso,Comida,6,006_comida
-Boda Bea,boda-bea,06_Boda_Bea,002_mexico-semana-en-el-paraiso,Cenote,7,007_cenote
-Boda Bea,boda-bea,06_Boda_Bea,002_mexico-semana-en-el-paraiso,Valladolid,8,008_valladolid
-Boda Bea,boda-bea,06_Boda_Bea,002_mexico-semana-en-el-paraiso,Fotografías,9,009_fotografias
-Boda Silvia,boda-silvia,07_Boda_Silvia,001_boda,Introducción,1,001_introduccion
-Boda Silvia,boda-silvia,07_Boda_Silvia,001_boda,A las puertas de la iglesia,2,002_a-las-puertas-de-la-iglesia
-Boda Silvia,boda-silvia,07_Boda_Silvia,001_boda,Llegan los novios,3,003_llegan-los-novios
-Boda Silvia,boda-silvia,07_Boda_Silvia,001_boda,Ceremonia y entrega de anillos,4,004_ceremonia-y-entrega-de-anillos
-Boda Silvia,boda-silvia,07_Boda_Silvia,001_boda,Palabras de la hermana de Miguel Ángel,5,005_palabras-de-la-hermana-de-miguel-angel
-Boda Silvia,boda-silvia,07_Boda_Silvia,001_boda,Palabras de Oscar,6,006_palabras-de-oscar
-Boda Silvia,boda-silvia,07_Boda_Silvia,001_boda,Firma de los papeles del matrimonio,7,007_firma-de-los-papeles-del-matrimonio
-Boda Silvia,boda-silvia,07_Boda_Silvia,001_boda,Salida de los novios,8,008_salida-de-los-novios
-Boda Silvia,boda-silvia,07_Boda_Silvia,001_boda,Banquete,9,009_banquete
-Boda Silvia,boda-silvia,07_Boda_Silvia,001_boda,Primer baile,10,010_primer-baile
-Boda Silvia,boda-silvia,07_Boda_Silvia,001_boda,Poesia de la madre de Miguel Ángel,11,011_poesia-de-la-madre-de-miguel-angel
-Boda Silvia,boda-silvia,07_Boda_Silvia,001_boda,Baile de la pareja,12,012_baile-de-la-pareja
-Boda Silvia,boda-silvia,07_Boda_Silvia,001_boda,Fotografias,13,013_fotografias
-Boda Silvia,boda-silvia,07_Boda_Silvia,001_boda,Epilogo: Final de la noche,14,014_epilogo-final-de-la-noche
-Boda Silvia,boda-silvia,07_Boda_Silvia,002_poesia,Poesia de la madre de Miguel Ángel,1,001_poesia-de-la-madre-de-miguel-angel
-Boda Silvia,boda-silvia,07_Boda_Silvia,003_regalo,Entrada The Simpson,1,001_entrada-the-simpson
-Boda Silvia,boda-silvia,07_Boda_Silvia,003_regalo,Palabras de Rosario,2,002_palabras-de-rosario
-Boda Silvia,boda-silvia,07_Boda_Silvia,003_regalo,Palabras de Guillermo,3,003_palabras-de-guillermo
-Boda Silvia,boda-silvia,07_Boda_Silvia,003_regalo,Palabras de Sara,4,004_palabras-de-sara
-Boda Silvia,boda-silvia,07_Boda_Silvia,003_regalo,Palabras de Pablo,5,005_palabras-de-pablo
-Boda Silvia,boda-silvia,07_Boda_Silvia,003_regalo,Palabras de Sebas,6,006_palabras-de-sebas
-Boda Silvia,boda-silvia,07_Boda_Silvia,003_regalo,Outro The Simpson,7,007_outro-the-simpson
-Boda Silvia,boda-silvia,07_Boda_Silvia,004_tomas-falsas,Llegada al sofa,1,001_llegada-al-sofa
-Boda Silvia,boda-silvia,07_Boda_Silvia,004_tomas-falsas,Nos quedamos en blanco,2,002_nos-quedamos-en-blanco
-Boda Silvia,boda-silvia,07_Boda_Silvia,004_tomas-falsas,Pablo se cuela en el plano,3,003_pablo-se-cuela-en-el-plano
-Boda Silvia,boda-silvia,07_Boda_Silvia,004_tomas-falsas,"Sara, la más profesional",4,004_sara-la-mas-profesional
-50 Cumpleaños Sebastián y Rosario,50-cumpleanos-sebastian-y-rosario,08_50CumpleSebasRosario,NULL,Introducción,1,001_introduccion
-50 Cumpleaños Sebastián y Rosario,50-cumpleanos-sebastian-y-rosario,08_50CumpleSebasRosario,NULL,La currada de los disfraces,2,002_la-currada-de-los-disfraces
-50 Cumpleaños Sebastián y Rosario,50-cumpleanos-sebastian-y-rosario,08_50CumpleSebasRosario,NULL,Preparativos,3,003_preparativos
-50 Cumpleaños Sebastián y Rosario,50-cumpleanos-sebastian-y-rosario,08_50CumpleSebasRosario,NULL,Sorpresa,4,004_sorpresa
-50 Cumpleaños Sebastián y Rosario,50-cumpleanos-sebastian-y-rosario,08_50CumpleSebasRosario,NULL,Preparando a Han Solo,5,005_preparando-a-han-solo
-50 Cumpleaños Sebastián y Rosario,50-cumpleanos-sebastian-y-rosario,08_50CumpleSebasRosario,NULL,Photocall,6,006_photocall
-50 Cumpleaños Sebastián y Rosario,50-cumpleanos-sebastian-y-rosario,08_50CumpleSebasRosario,NULL,Han Solo salva la galaxia,7,007_han-solo-salva-la-galaxia
-50 Cumpleaños Sebastián y Rosario,50-cumpleanos-sebastian-y-rosario,08_50CumpleSebasRosario,NULL,Reacción al montaje de Guillermo y sorpresa,8,008_reaccion-al-montaje-de-guillermo-y-sorpresa
-50 Cumpleaños Sebastián y Rosario,50-cumpleanos-sebastian-y-rosario,08_50CumpleSebasRosario,NULL,Tarta y juegos,9,009_tarta-y-juegos
-50 Cumpleaños Sebastián y Rosario,50-cumpleanos-sebastian-y-rosario,08_50CumpleSebasRosario,NULL,Fin de la fiesta,10,010_fin-de-la-fiesta
-50 Cumpleaños Sebastián y Rosario,50-cumpleanos-sebastian-y-rosario,08_50CumpleSebasRosario,NULL,Fotografias,11,011_fotografias
-50 Cumpleaños Sebastián y Rosario,50-cumpleanos-sebastian-y-rosario,08_50CumpleSebasRosario,NULL,Montaje Guillermo,12,012_montaje-guillermo
-Boda,boda,01_Boda,NULL,Introducción,3,003_introduccion
-Boda,boda,01_Boda,NULL,Preparación Rosario,5,005_preparacion-rosario
-Boda,boda,01_Boda,NULL,Preparación Sebastián,6,006_preparacion-sebastian
-Boda,boda,01_Boda,NULL,Rosario llegando a la Iglesia,9,009_rosario-llegando-a-la-iglesia
-Boda,boda,01_Boda,NULL,Acompañamiento al altar y ceremonia,11,011_acompanamiento-al-altar-y-ceremonia
-Boda,boda,01_Boda,NULL,Consentimiento matrimonial,13,013_consentimiento-matrimonial
-Boda,boda,01_Boda,NULL,Salida de los novios,17,017_salida-de-los-novios
-Boda,boda,01_Boda,NULL,Parque,18,018_parque
-Boda,boda,01_Boda,NULL,Llegada al banquete,20,020_llegada-al-banquete
-Boda,boda,01_Boda,NULL,Tarta,22,022_tarta
-Boda,boda,01_Boda,NULL,Actuación de la Tuna,24,024_actuacion-de-la-tuna
-Boda,boda,01_Boda,NULL,Los invitados cantan,26,026_los-invitados-cantan
-Boda,boda,01A_Boda,NULL,Cartel de Boda,1,001_cartel-de-boda
-Boda,boda,01A_Boda,NULL,Invitación de boda y fotografias,2,002_invitacion-de-boda-y-fotografias
-Boda,boda,01A_Boda,NULL,Ramo y preparación de Rosario,3,003_ramo-y-preparacion-de-rosario
-Boda,boda,01A_Boda,NULL,Sebastián vistiéndose,4,004_sebastian-vistiendose
-Boda,boda,01A_Boda,NULL,Llegada de Sebastián a la Iglesia,5,005_llegada-de-sebastian-a-la-iglesia
-Boda,boda,01A_Boda,NULL,Llegada de Rosario a la Iglesia II,6,006_llegada-de-rosario-a-la-iglesia-ii
-Boda,boda,01A_Boda,NULL,Acompañamiento al altar  I,7,007_acompanamiento-al-altar-i
-Boda,boda,01A_Boda,NULL,Consentimiento matrimonial II,8,008_consentimiento-matrimonial-ii
-Boda,boda,01A_Boda,NULL,Entrega de alianzas,9,009_entrega-de-alianzas
-Boda,boda,01A_Boda,NULL,Final de la ceremonia,10,010_final-de-la-ceremonia
-Boda,boda,01A_Boda,NULL,Fotografias en el Parque Grande,11,011_fotografias-en-el-parque-grande
-Boda,boda,01B_Boda,NULL,Banquete II,12,012_banquete-ii
-Boda,boda,01B_Boda,NULL,Tarta II,13,013_tarta-ii
-Boda,boda,01B_Boda,NULL,Actuación de la Tuna II,14,014_actuacion-de-la-tuna-ii
-Boda,boda,01B_Boda,NULL,Jota de los asistentes,15,015_jota-de-los-asistentes
-Boda,boda,01B_Boda,NULL,Fotografias,16,016_fotografias
+project_name,og_file,season_id,file_name
+bautizo-guillermo,02_Guillermo_Bautizo,NULL,001_introduccion
+bautizo-guillermo,02_Guillermo_Bautizo,NULL,002_preparativos
+bautizo-guillermo,02_Guillermo_Bautizo,NULL,003_llega-guillermo
+bautizo-guillermo,02_Guillermo_Bautizo,NULL,004_ceremonia-llegada-a-la-iglesia
+bautizo-guillermo,02_Guillermo_Bautizo,NULL,005_ceremonia-rito-de-acogida
+bautizo-guillermo,02_Guillermo_Bautizo,NULL,006_ceremonia-bautismo
+bautizo-guillermo,02_Guillermo_Bautizo,NULL,007_ceremonia-rito-de-conclusion
+bautizo-guillermo,02_Guillermo_Bautizo,NULL,008_merienda-todos-sentados-a-la-mesa
+bautizo-guillermo,02_Guillermo_Bautizo,NULL,009_merienda-merienda-preparacion-del-concurso
+bautizo-guillermo,02_Guillermo_Bautizo,NULL,010_merienda-merienda-concurso
+bautizo-guillermo,02_Guillermo_Bautizo,NULL,011_merienda-merienda-concurso-ii
+bautizo-guillermo,02_Guillermo_Bautizo,NULL,012_merienda-merienda-concurso-iii
+bautizo-guillermo,02_Guillermo_Bautizo,NULL,013_merienda-merienda-concurso-iv
+bautizo-guillermo,02_Guillermo_Bautizo,NULL,014_merienda-viene-guillermo
+bautizo-guillermo,02_Guillermo_Bautizo,NULL,015_merienda-tarta
+bautizo-guillermo,02_Guillermo_Bautizo,NULL,016_epilogo
+bautizo-guillermo,02_Guillermo_Bautizo,NULL,017_discurso-papa-y-fotografias
+comunion-sara,03_Sara_Bautizo_Comunion,NULL,001_introduccion
+comunion-sara,03_Sara_Bautizo_Comunion,NULL,002_desayuno-de-la-comulgante
+comunion-sara,03_Sara_Bautizo_Comunion,NULL,003_vistiendose-y-peluqueria
+comunion-sara,03_Sara_Bautizo_Comunion,NULL,004_antes-de-la-ceremonia
+comunion-sara,03_Sara_Bautizo_Comunion,NULL,005_entrada-y-oracion
+comunion-sara,03_Sara_Bautizo_Comunion,NULL,006_renovacion-de-las-promesas-bautismales
+comunion-sara,03_Sara_Bautizo_Comunion,NULL,007_accion-de-gracias
+comunion-sara,03_Sara_Bautizo_Comunion,NULL,008_rito-de-la-paz
+comunion-sara,03_Sara_Bautizo_Comunion,NULL,009_rito-de-comunion
+comunion-sara,03_Sara_Bautizo_Comunion,NULL,010_parque
+comunion-sara,03_Sara_Bautizo_Comunion,NULL,011_comida
+comunion-sara,03_Sara_Bautizo_Comunion,NULL,012_paso-de-sara-por-el-manto-de-la-virgen-del-pilar
+comunion-sara,03_Sara_Bautizo_Comunion,NULL,013_fotografias-i
+comunion-sara,03_Sara_Bautizo_Comunion,NULL,014_fotografias-ii
+comunion-sara,03_Sara_Bautizo_Comunion,NULL,015_fotografias-iii
+comunion-sara,03_Sara_Bautizo_Comunion,NULL,016_fotografias-iv
+comunion-sara,03_Sara_Bautizo_Comunion,NULL,017_fotografias-v
+comunion-sara,03_Sara_Bautizo_Comunion,NULL,018_fotografias-vi
+comunion-sara,03_Sara_Bautizo_Comunion,NULL,019_fotografias-vii
+bautizo-sara,03_Sara_Bautizo_Comunion,NULL,001_introduccion
+bautizo-sara,03_Sara_Bautizo_Comunion,NULL,002_antes-de
+bautizo-sara,03_Sara_Bautizo_Comunion,NULL,003_ceremonia
+bautizo-sara,03_Sara_Bautizo_Comunion,NULL,004_rito-de-bautismo
+bautizo-sara,03_Sara_Bautizo_Comunion,NULL,005_final-de-la-ceremonia
+bautizo-sara,03_Sara_Bautizo_Comunion,NULL,006_celebracion
+bautizo-sara,03_Sara_Bautizo_Comunion,NULL,007_palabras-finales-de-papa
+bautizo-sara,03_Sara_Bautizo_Comunion,NULL,008_poema-de-papa-y-fotografias
+bautizo-pablo,04_Pablo_Bautizo_Comunion,NULL,001_introduccion
+bautizo-pablo,04_Pablo_Bautizo_Comunion,NULL,002_preparativos-el-despertar
+bautizo-pablo,04_Pablo_Bautizo_Comunion,NULL,003_preparativos-poniendo-el-traje
+bautizo-pablo,04_Pablo_Bautizo_Comunion,NULL,004_ceremonia
+bautizo-pablo,04_Pablo_Bautizo_Comunion,NULL,005_rito-del-bautismo
+bautizo-pablo,04_Pablo_Bautizo_Comunion,NULL,006_parque
+bautizo-pablo,04_Pablo_Bautizo_Comunion,NULL,007_la-celebracion-banquete
+bautizo-pablo,04_Pablo_Bautizo_Comunion,NULL,008_tarta
+bautizo-pablo,04_Pablo_Bautizo_Comunion,NULL,009_fotografias
+comunion-pablo,04_Pablo_Bautizo_Comunion,montaje-personal,001_introduccion
+comunion-pablo,04_Pablo_Bautizo_Comunion,montaje-personal,002_preparativos
+comunion-pablo,04_Pablo_Bautizo_Comunion,montaje-personal,003_entrada-y-oracion
+comunion-pablo,04_Pablo_Bautizo_Comunion,montaje-personal,004_accion-de-gracias
+comunion-pablo,04_Pablo_Bautizo_Comunion,montaje-personal,005_presentacion-de-los-comulgantes
+comunion-pablo,04_Pablo_Bautizo_Comunion,montaje-personal,006_renovacion-de-las-promesas
+comunion-pablo,04_Pablo_Bautizo_Comunion,montaje-personal,007_oracion-de-papa
+comunion-pablo,04_Pablo_Bautizo_Comunion,montaje-personal,008_ofrenda-de-flores
+comunion-pablo,04_Pablo_Bautizo_Comunion,montaje-personal,009_rito-de-la-paz
+comunion-pablo,04_Pablo_Bautizo_Comunion,montaje-personal,010_rito-de-comunion
+comunion-pablo,04_Pablo_Bautizo_Comunion,montaje-personal,011_banquete
+comunion-pablo,04_Pablo_Bautizo_Comunion,montaje-personal,012_paso-de-pablo-por-el-manto-de-la-virgen-del-pilar
+comunion-pablo,04_Pablo_Bautizo_Comunion,montaje-personal,013_fotografias
+comunion-pablo,Profesional_Pablo_Comunion,montaje-profesional,001_capitulo-i
+comunion-pablo,Profesional_Pablo_Comunion,montaje-profesional,002_capitulo-ii
+comunion-pablo,Profesional_Pablo_Comunion,montaje-profesional,003_capitulo-iii
+comunion-pablo,Profesional_Pablo_Comunion,montaje-profesional,004_capitulo-iv
+comunion-guillermo,05_Guille_Comunion_Confirmacion,NULL,001_introduccion
+comunion-guillermo,05_Guille_Comunion_Confirmacion,NULL,002_antes-de-la-ceremonia
+comunion-guillermo,05_Guille_Comunion_Confirmacion,NULL,003_oracion
+comunion-guillermo,05_Guille_Comunion_Confirmacion,NULL,004_accion-de-gracias
+comunion-guillermo,05_Guille_Comunion_Confirmacion,NULL,005_rito-de-la-paz
+comunion-guillermo,05_Guille_Comunion_Confirmacion,NULL,006_rito-de-comunion
+comunion-guillermo,05_Guille_Comunion_Confirmacion,NULL,007_paso-de-guillermo-por-el-manto-de-la-virgen-del-pilar
+comunion-guillermo,05_Guille_Comunion_Confirmacion,NULL,008_restaurante
+comunion-guillermo,05_Guille_Comunion_Confirmacion,NULL,009_parque-de-atracciones
+comunion-guillermo,05_Guille_Comunion_Confirmacion,NULL,010_fotografias
+confirmacion-guillermo,05_Guille_Comunion_Confirmacion,NULL,001_ceremonia-de-confirmacion
+confirmacion-guillermo,05_Guille_Comunion_Confirmacion,NULL,002_fotografias
+mayoria-de-edad-guillermo,05_Guille_Comunion_Confirmacion,NULL,001_palabras-para-guille
+boda-bea,06_Boda_Bea,001_ceremonias,001_introduccion
+boda-bea,06_Boda_Bea,001_ceremonias,002_ceremonia-mexicana-introduccion
+boda-bea,06_Boda_Bea,001_ceremonias,003_ceremonia-mexicana-discurso
+boda-bea,06_Boda_Bea,001_ceremonias,004_ceremonia-mexicana-poesia-pablo
+boda-bea,06_Boda_Bea,001_ceremonias,005_ceremonia-mexicana-poesia-sara
+boda-bea,06_Boda_Bea,001_ceremonias,006_ceremonia-mexicana-baile
+boda-bea,06_Boda_Bea,001_ceremonias,007_ceremonia-mexicana-discoteca
+boda-bea,06_Boda_Bea,001_ceremonias,008_ceremonia-civil-introduccion
+boda-bea,06_Boda_Bea,001_ceremonias,009_ceremonia-civil-introduccion
+boda-bea,06_Boda_Bea,001_ceremonias,010_ceremonia-civil-banquete
+boda-bea,06_Boda_Bea,001_ceremonias,011_fotografias
+boda-bea,06_Boda_Bea,002_mexico-semana-en-el-paraiso,001_introduccion
+boda-bea,06_Boda_Bea,002_mexico-semana-en-el-paraiso,002_5-feb-mister-h10
+boda-bea,06_Boda_Bea,002_mexico-semana-en-el-paraiso,003_6-feb-deportes
+boda-bea,06_Boda_Bea,002_mexico-semana-en-el-paraiso,004_8-feb-playa-y-motos
+boda-bea,06_Boda_Bea,002_mexico-semana-en-el-paraiso,005_9-deb-paracaidas
+boda-bea,06_Boda_Bea,002_mexico-semana-en-el-paraiso,006_10-feb-se-acabo
+boda-bea,06_Boda_Bea,002_mexico-semana-en-el-paraiso,007_fotografias
+boda-bea,06_Boda_Bea,002_mexico-semana-en-el-paraiso,001_tienda-maya
+boda-bea,06_Boda_Bea,002_mexico-semana-en-el-paraiso,002_piramide-kukulcan
+boda-bea,06_Boda_Bea,002_mexico-semana-en-el-paraiso,003_juego-pelota-pok-a-pok
+boda-bea,06_Boda_Bea,002_mexico-semana-en-el-paraiso,004_plataforma-de-venus
+boda-bea,06_Boda_Bea,002_mexico-semana-en-el-paraiso,005_templo-guerrerros
+boda-bea,06_Boda_Bea,002_mexico-semana-en-el-paraiso,006_comida
+boda-bea,06_Boda_Bea,002_mexico-semana-en-el-paraiso,007_cenote
+boda-bea,06_Boda_Bea,002_mexico-semana-en-el-paraiso,008_valladolid
+boda-bea,06_Boda_Bea,002_mexico-semana-en-el-paraiso,009_fotografias
+boda-silvia,07_Boda_Silvia,001_boda,001_introduccion
+boda-silvia,07_Boda_Silvia,001_boda,002_a-las-puertas-de-la-iglesia
+boda-silvia,07_Boda_Silvia,001_boda,003_llegan-los-novios
+boda-silvia,07_Boda_Silvia,001_boda,004_ceremonia-y-entrega-de-anillos
+boda-silvia,07_Boda_Silvia,001_boda,005_palabras-de-la-hermana-de-miguel-angel
+boda-silvia,07_Boda_Silvia,001_boda,006_palabras-de-oscar
+boda-silvia,07_Boda_Silvia,001_boda,007_firma-de-los-papeles-del-matrimonio
+boda-silvia,07_Boda_Silvia,001_boda,008_salida-de-los-novios
+boda-silvia,07_Boda_Silvia,001_boda,009_banquete
+boda-silvia,07_Boda_Silvia,001_boda,010_primer-baile
+boda-silvia,07_Boda_Silvia,001_boda,011_poesia-de-la-madre-de-miguel-angel
+boda-silvia,07_Boda_Silvia,001_boda,012_baile-de-la-pareja
+boda-silvia,07_Boda_Silvia,001_boda,013_fotografias
+boda-silvia,07_Boda_Silvia,001_boda,014_epilogo-final-de-la-noche
+boda-silvia,07_Boda_Silvia,002_poesia,001_poesia-de-la-madre-de-miguel-angel
+boda-silvia,07_Boda_Silvia,003_regalo,001_entrada-the-simpson
+boda-silvia,07_Boda_Silvia,003_regalo,002_palabras-de-rosario
+boda-silvia,07_Boda_Silvia,003_regalo,003_palabras-de-guillermo
+boda-silvia,07_Boda_Silvia,003_regalo,004_palabras-de-sara
+boda-silvia,07_Boda_Silvia,003_regalo,005_palabras-de-pablo
+boda-silvia,07_Boda_Silvia,003_regalo,006_palabras-de-sebas
+boda-silvia,07_Boda_Silvia,003_regalo,007_outro-the-simpson
+boda-silvia,07_Boda_Silvia,004_tomas-falsas,001_llegada-al-sofa
+boda-silvia,07_Boda_Silvia,004_tomas-falsas,002_nos-quedamos-en-blanco
+boda-silvia,07_Boda_Silvia,004_tomas-falsas,003_pablo-se-cuela-en-el-plano
+boda-silvia,07_Boda_Silvia,004_tomas-falsas,004_sara-la-mas-profesional
+50-cumpleanos-sebastian-y-rosario,08_50CumpleSebasRosario,NULL,001_introduccion
+50-cumpleanos-sebastian-y-rosario,08_50CumpleSebasRosario,NULL,002_la-currada-de-los-disfraces
+50-cumpleanos-sebastian-y-rosario,08_50CumpleSebasRosario,NULL,003_preparativos
+50-cumpleanos-sebastian-y-rosario,08_50CumpleSebasRosario,NULL,004_sorpresa
+50-cumpleanos-sebastian-y-rosario,08_50CumpleSebasRosario,NULL,005_preparando-a-han-solo
+50-cumpleanos-sebastian-y-rosario,08_50CumpleSebasRosario,NULL,006_photocall
+50-cumpleanos-sebastian-y-rosario,08_50CumpleSebasRosario,NULL,007_han-solo-salva-la-galaxia
+50-cumpleanos-sebastian-y-rosario,08_50CumpleSebasRosario,NULL,008_reaccion-al-montaje-de-guillermo-y-sorpresa
+50-cumpleanos-sebastian-y-rosario,08_50CumpleSebasRosario,NULL,009_tarta-y-juegos
+50-cumpleanos-sebastian-y-rosario,08_50CumpleSebasRosario,NULL,010_fin-de-la-fiesta
+50-cumpleanos-sebastian-y-rosario,08_50CumpleSebasRosario,NULL,011_fotografias
+50-cumpleanos-sebastian-y-rosario,08_50CumpleSebasRosario,NULL,012_montaje-guillermo
+50-cumpleanos-sebastian-y-rosario,08_50CumpleSebasRosario,NULL,013_montaje-guillermo-i
+50-cumpleanos-sebastian-y-rosario,08_50CumpleSebasRosario,NULL,012_montaje-guillermo
+50-cumpleanos-sebastian-y-rosario,08_50CumpleSebasRosario,NULL,015_montaje-guillermo-iii
+50-cumpleanos-sebastian-y-rosario,08_50CumpleSebasRosario,NULL,012_montaje-guillermo
+50-cumpleanos-sebastian-y-rosario,08_50CumpleSebasRosario,NULL,017_montaje-guillermo-v
+50-cumpleanos-sebastian-y-rosario,08_50CumpleSebasRosario,NULL,012_montaje-guillermo
+50-cumpleanos-sebastian-y-rosario,08_50CumpleSebasRosario,NULL,019_montaje-guillermo-vii
+50-cumpleanos-sebastian-y-rosario,08_50CumpleSebasRosario,NULL,012_montaje-guillermo
+boda,01_Boda,NULL,003_introduccion
+boda,01_Boda,NULL,005_preparacion-rosario
+boda,01_Boda,NULL,006_preparacion-sebastian
+boda,01_Boda,NULL,009_rosario-llegando-a-la-iglesia
+boda,01_Boda,NULL,011_acompanamiento-al-altar-y-ceremonia
+boda,01_Boda,NULL,013_consentimiento-matrimonial
+boda,01_Boda,NULL,017_salida-de-los-novios
+boda,01_Boda,NULL,018_parque
+boda,01_Boda,NULL,020_llegada-al-banquete
+boda,01_Boda,NULL,022_tarta
+boda,01_Boda,NULL,024_actuacion-de-la-tuna
+boda,01_Boda,NULL,026_los-invitados-cantan
+boda,01A_boda,NULL,001_cartel-de-boda
+boda,01A_boda,NULL,002_invitacion-de-boda-y-fotografias
+boda,01A_boda,NULL,003_ramo-y-preparacion-de-rosario
+boda,01A_boda,NULL,004_sebastian-vistiendose
+boda,01A_boda,NULL,005_llegada-de-sebastian-a-la-iglesia
+boda,01A_boda,NULL,006_llegada-de-rosario-a-la-iglesia-ii
+boda,01A_boda,NULL,007_acompanamiento-al-altar-i
+boda,01A_boda,NULL,008_consentimiento-matrimonial-ii
+boda,01A_boda,NULL,009_entrega-de-alianzas
+boda,01A_boda,NULL,010_final-de-la-ceremonia
+boda,01A_boda,NULL,011_fotografias-en-el-parque-grande
+boda,01B_Boda,NULL,012_banquete-ii
+boda,01B_Boda,NULL,013_tarta-ii
+boda,01B_Boda,NULL,014_actuacion-de-la-tuna-ii
+boda,01B_Boda,NULL,015_jota-de-los-asistentes
+boda,01B_Boda,NULL,016_fotografias-i
+boda,01B_Boda,NULL,016_fotografias-ii

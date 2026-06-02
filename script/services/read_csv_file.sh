@@ -1,12 +1,15 @@
 read_csv_file() {
     local file=$1
+    local category=$2
     
     local chapters=()
+    local seasons=()
     local iso_image=""
+    local content_name=""
 
-    MIGRATE_PATH="/home/pablo/dev/linux-csv-to-mp4/files-to-migrate"
+    MIGRATE_PATH="$RUN_DIR/linux-csv-to-mp4/files-to-migrate"
 
-    while IFS="," read -r human_project_name project_name og_file season_id title order file_name || [ -n "$file_name" ];
+    while IFS="," read -r project_name og_file season_id file_name || [ -n "$file_name" ];
         do
 
             if [ "$og_file" == "og_file" ] ; then 
@@ -15,33 +18,28 @@ read_csv_file() {
 
             if [ "$iso_image" == "" ]; then
                 iso_image=$og_file
+                content_name="$project_name"
             fi
 
             if [ "$iso_image" != "$og_file" ]; then
-                # echo "ISO: $iso_image"
-
-                # for ((i=0; i<${#chapters[@]}; i++)); do
-                #     echo "Iteration ${chapters[i]}"
-                # done
-
-                get_dvd_map "${chapters[@]}"
+                get_dvd_map "$iso_image" "$category" "$content_name" chapters seasons
                 
                 iso_image=$og_file
+                content_name="$project_name"
+                
                 chapters=()
+                seasons=()
 
             fi
 
         chapters+=("$file_name")
+        seasons+=("$season_id")
+        # content_name=$project_name
 
-        done < $MIGRATE_PATH/$file
+        done < "$MIGRATE_PATH/$file"
 
-        get_dvd_map $chapters
-
-        # echo "ISO: $iso_image"
-        
-        # for ((i=0; i<${#chapters[@]}; i++)); 
-        # do
-        #     echo "Iteration ${chapters[i]}"
-        # done
+    if [[ ${#chapters[@]} -gt 0 ]]; then
+        get_dvd_map "$iso_image" "$category" "$content_name" chapters seasons
+    fi
 }
 
