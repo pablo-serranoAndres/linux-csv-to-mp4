@@ -20,7 +20,7 @@ read_csv_file() {
             fi
 
             if [[ "$iso_image" != "$og_file" ]]; then
-                get_dvd_map "$iso_image" "$category" "$content_name" chapters seasons
+                process_dvd_chapters "$iso_image" "$category" "$content_name" chapters seasons
                 
                 iso_image=$og_file
                 content_name="$project_name"
@@ -37,7 +37,7 @@ read_csv_file() {
         done < "$MIGRATE_DIR/$file"
 
     if [[ ${#chapters[@]} -gt 0 ]]; then
-        get_dvd_map "$iso_image" "$category" "$content_name" chapters seasons
+        process_dvd_chapters "$iso_image" "$category" "$content_name" chapters seasons
     fi
 }
 

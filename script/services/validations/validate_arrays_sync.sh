@@ -1,4 +1,4 @@
-same_length_arrays() {
+validate_arrays_sync() {
     local count_dvd_map="$1"
     local count_chapter_list="$2"
     local count_season_list="$3"

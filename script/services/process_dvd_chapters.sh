@@ -1,4 +1,4 @@
-get_dvd_map() {
+process_dvd_chapters() {
     local iso_image="$1"
     local category="$2"
     local content_name="$3"
@@ -27,7 +27,7 @@ get_dvd_map() {
             fi
         done < <(lsdvd -c "$ISO_DIR/$iso_image.iso" 2>/dev/null)
 
-    if ! same_length_arrays "${#dvd_map[@]}" "${#chapters_list[@]}" "${#seasons_list[@]}"; then 
+    if ! validate_arrays_sync "${#dvd_map[@]}" "${#chapters_list[@]}" "${#seasons_list[@]}"; then 
         echo_error "Error de sincronización en $iso_image. Los arrays no coinciden en tamaño."
         return 1
     fi
