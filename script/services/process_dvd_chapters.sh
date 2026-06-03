@@ -1,16 +1,20 @@
 process_dvd_chapters() {
-    local iso_image="$1"
+    local dvd_name="$1"
     local category="$2"
-    local content_name="$3"
     
-    #! Desplazamos 3 posiciones  
-    shift 3
+    #! Desplazamos 2 posiciones  
+    shift 2
     declare -n chapters_list="$1"
     declare -n seasons_list="$2"
+    declare -n project_list="$3"
+    
+    ensure_iso_exists "$category" "$dvd_name"
+    
+    local iso_image="$dvd_name"
     
     local dvd_map=()
     local current_title=0
-    local current_chapter=0
+    local current_chapter=0    
 
     while IFS= read -r line 
         do
@@ -27,7 +31,7 @@ process_dvd_chapters() {
             fi
         done < <(lsdvd -c "$ISO_DIR/$iso_image.iso" 2>/dev/null)
 
-    if ! validate_arrays_sync "${#dvd_map[@]}" "${#chapters_list[@]}" "${#seasons_list[@]}"; then 
+    if ! validate_arrays_sync "${#dvd_map[@]}" "${#chapters_list[@]}" "${#seasons_list[@]}" "${#project_list[@]}"; then 
         echo_error "Error de sincronización en $iso_image. Los arrays no coinciden en tamaño."
         return 1
     fi
@@ -38,8 +42,10 @@ process_dvd_chapters() {
     echo ""
 
     for ((i=0; i<count; i++)); do
-        extract_chapters "$iso_image" "${chapters_list[$i]}" "${dvd_map[$i]}" "$content_name" "${seasons_list[$i]}" "$category"
+        extract_chapters "$iso_image" "${chapters_list[$i]}" "${dvd_map[$i]}" "${project_list[$i]}" "${seasons_list[$i]}" "$category"
     done
 
+
+    delete_iso "$iso_image"
 }
 

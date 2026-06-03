@@ -1,4 +1,4 @@
-get_categorie_from_file () {
+get_category_from_file () {
     local file=$1
 
     IFS="-" read -r -a parts <<< "$file"
