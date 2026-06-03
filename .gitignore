@@ -2,3 +2,5 @@ iso/*
 uploads/*
 iso/*
 /tmp/*
+/backup-csv/*
+/files-to-migrate/*
