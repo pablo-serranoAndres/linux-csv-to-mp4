@@ -2,7 +2,8 @@ ensure_iso_exists() {
     local category="$1"
     local dvd_name="$2"
 
-    local hdd_dvd_path="$ORIGIN_DIR/$category/$dvd_name"
+    # Dentro de tu script principal o servicios:
+    local hdd_dvd_path="${ORIGIN_DIR}/${category}/${dvd_name}" # ⬅️ Usa siempre comillas dobles al invocarla después
     local iso_file_path="$ISO_DIR/$dvd_name.iso"
     local tmp_working_dir="$TMP_DIR/$dvd_name"
 

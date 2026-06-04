@@ -1,6 +1,16 @@
-iso/*
-uploads/*
-iso/*
-/tmp/*
-/backup-csv/*
-/files-to-migrate/*
+# Disks and Media
+iso/
+*.iso
+
+# User Uploads and Temporary Files
+uploads/
+tmp/
+
+# Backups and Migrations
+backup-csv/
+files-to-migrate/
+
+# Environment and Secrets
+.env
+.env.*
+!.env.example

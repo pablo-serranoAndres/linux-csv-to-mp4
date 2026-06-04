@@ -22,8 +22,7 @@ BASE_DIR="$RUN_DIR/linux-csv-to-mp4"
 MIGRATE_DIR="$BASE_DIR/files-to-migrate"
 ISO_DIR="$BASE_DIR/iso"
 TMP_DIR="$BASE_DIR/tmp"
-BACKUP_DIR="$BASE_DIR/backup_csv"
-UPLOAD_DIR="$BASE_DIR/$EXPORT_DIR"
+BACKUP_DIR="$BASE_DIR/backup-csv"
 
 check_directories
 check_dependencies
